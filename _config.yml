@@ -11,9 +11,9 @@ title                    : "John Louis Strakes Lopez"
 title_separator          : "-"
 name                     : &name "John Louis Strakes Lopez"
 description              : &description "Computer, Data, and Learning Scientist"
-url                      : jlopez616.github.io
+url                      : https://jlopez616.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jlopez616.github.io"
+repository               : "jlopez616/jlopez616.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Louis-Strakes Lopez"
   avatar           : "profile.png"
-  bio              : "Computer, Data, and Learning Scientistr"
+  bio              : "Computer, Data, and Learning Scientist"
   location         : "Irvine, CA"
   employer         :
   pubmed           : 
