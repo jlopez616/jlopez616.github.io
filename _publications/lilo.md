@@ -2,7 +2,7 @@
 title: "Reminders, Reflections, and Relationships: Insights from the Design of a Chatbot for College Advising"
 collection: publications
 permalink: /publication/lilo
-date: 2023
+date: 2023-04-12
 venue: 'Information and Learning Sciences'
 citation: 'Nguyen, H., Lopez, J., Homer, B., Ali, A., & Ahn, J. (2023). Reminders, reflections, and relationships: insights from the design of a chatbot for college advising. Information and Learning Sciences, 124(3/4), 128-146.'
 ---
