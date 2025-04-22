@@ -3327,3 +3327,10 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom Image Class */
+
+.inline_image {
+	max-height: 300px;
+	max-width: 300px;
+}
